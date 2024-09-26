@@ -2,6 +2,8 @@
   "name": "vibha-sk-site",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://vibhaa30.github.io/vibha-sk-website/",
+
   "type": "module",
   "scripts": {
     "dev": "vite",
